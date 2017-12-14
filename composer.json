@@ -1,0 +1,13 @@
+{
+    "name": "codenomad/erm",
+    "description": "Employee Management tool with Angular 2 and PHP",
+    "type": "project",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Nikhil Garg",
+            "email": "nikhil@codenomad.net"
+        }
+    ],
+    "require": {}
+}
